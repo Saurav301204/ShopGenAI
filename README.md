@@ -1,3 +1,5 @@
+# A GENAI Project
+Made by SAURAV BARAPATRE
 # Tech-stack Of the Project
 
 We have used Qdrant for hosting the vector database in the cloud. For text embedding, we have used text-embedding-3-small model from openAI. We have used Sveltekit as a meta framework covering both the front-end and the backend. For database we have used postgres. Database in hosted in supabase.
